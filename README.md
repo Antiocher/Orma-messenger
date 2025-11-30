@@ -10,14 +10,15 @@ All messages are end-to-end encrypted. Even our server has no way to decrypt the
 
 ## What Orma is:
 
-Orma is a minimal, open-source desktop messenger for Windows.  
+Orma is a minimal, open-source desktop messenger for Windows and linux.
 It’s built for people who value privacy, speed, and simplicity.
 
--  No logs or analytics
--   No email or phone number required
--  End-to-end encryption by default
--  Fast and lightweight interface
--  TLS encryption powered by OpenSSL
+- Сross-platform
+- No logs or analytics
+- No email or phone number required
+- End-to-end encryption by default
+- Fast and lightweight interface
+- TLS encryption powered by OpenSSL
 - p2p
 ---
 
