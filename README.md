@@ -31,8 +31,8 @@ We believe secure communication should be fast, simple, and open to everyone - w
 
 **Orma - feel safe again.**
 
---
+---
 
-**Launch**
+## Launch
 > Windows:
->  Launch main.bat
+>>  Launch main.bat
